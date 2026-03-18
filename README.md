@@ -18,13 +18,11 @@
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZvYnh2cDJxOHVkbzVia29pc3g0N3VuZXJwMzR2d2J5cTdpbmJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sapreparth/sapreparth/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sapreparth/sapreparth/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sapreparth/sapreparth/output/pacman-contribution-graph.svg">
 </picture>
-
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
